@@ -1,0 +1,31 @@
+# Virtual Environment
+venv/
+.env
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Log & Cache
+logs/
+*.log
+*.sqlite3
+
+# Konfigurasi & Rahasia
+.env
+config.json
+
+# Dependensi yang bisa di-reinstall
+pip-log.txt
+pip-delete-this-directory.txt
+requirements.txt
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# IDE & Editor Files
+.vscode/
+.idea/
+*.iml
+.DS_Store
+Thumbs.db
