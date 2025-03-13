@@ -1,1 +1,1 @@
-https://bike-sharing-dashboard-riyqrztypxo3u3g9x4ipvb.streamlit.app/
+https://bike-sharing-dashboard-riyqrztypxo3u3g9x4ipvb.streamlit.app
